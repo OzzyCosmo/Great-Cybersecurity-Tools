@@ -14,3 +14,4 @@ https://github.com/sherlock-project/sherlock - Searches specified username(s) on
 ### A collection of general ethical hacking tools
 
 https://github.com/htr-tech/zphisher - Phishing template tool
+https://github.com/ethanolivertroy/nmap-GPT - GPT-3 Powered NMAP tool
